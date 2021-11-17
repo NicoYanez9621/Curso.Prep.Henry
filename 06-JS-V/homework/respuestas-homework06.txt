@@ -1,0 +1,5 @@
+prototype:
+
+
+Constructors (de Clases):
+
