@@ -1,1 +1,1 @@
-Funciones Callback: 
+Funciones Callback: Este tipo de funciones son aquellas, en la cuales se las puede pasar como un parametro mas en otras funciones. 
