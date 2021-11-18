@@ -20,6 +20,7 @@ h1 {
 
 img {
   width: 400px;
+  border-radius: 10px;
 }
 
 #thirdDiv {
@@ -32,10 +33,11 @@ img {
   border-color: black;
   border-radius: 5%;
 }
-#divClass {
+.divClass {
   margin-left: auto;
   margin-right: auto;
 }
 #spanId {
   font-size: 18px;
+  margin: 50px;
 }
